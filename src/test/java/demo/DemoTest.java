@@ -10,6 +10,8 @@ public class DemoTest {
 		System.out.println("more scriptting....");
 		
 		System.out.println("cahngess.");
+
+		System.out.println("test");
 	}
 
 	
