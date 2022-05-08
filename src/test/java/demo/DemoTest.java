@@ -41,6 +41,11 @@ public class DemoTest {
 	  public void addNum2(){
     
  		  System.out.println("adding"); 
+		     System.out.println("adding"); 
+    int a = 4;
+    int b = 5;
+    
+      System.out.println( a + b);
  	 }
 	
 }
