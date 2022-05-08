@@ -29,6 +29,8 @@ public class DemoTest {
 	
 	public static void conflictMethod(int a, int b) {
 		System.out.println(a -b);
+		
+		System.out.println("test conflict " ) ;
 	}
 	
 }
