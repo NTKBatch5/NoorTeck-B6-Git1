@@ -9,7 +9,12 @@ public class DemoFour {
   public void addNum(){
     
    System.out.println("adding"); 
-   System.out.println( 4 + 5);
+
+    int a = 4;
+    int b = 5;
+    
+      System.out.println( a + b);
+
   }
 
 }
