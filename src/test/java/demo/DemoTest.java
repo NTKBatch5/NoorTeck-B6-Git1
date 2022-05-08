@@ -38,4 +38,9 @@ public class DemoTest {
 
 	}
 	
+	  public void addNum2(){
+    
+ 		  System.out.println("adding"); 
+ 	 }
+	
 }
