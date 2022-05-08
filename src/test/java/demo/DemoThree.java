@@ -16,6 +16,8 @@ public class DemoThree {
 		int b = 5;
 
 		System.out.println(a + b);
-
+	    /**
+	     * Random code...
+	     */
 	}
 }
