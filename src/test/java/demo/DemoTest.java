@@ -24,6 +24,7 @@ public class DemoTest {
 	}
 
 	public static void add(int a, int b) {
+		System.out.println("Fathers Day....");
 		System.out.println(a + b);
 		System.out.println("Mother's Day.....");
 	}
@@ -36,8 +37,8 @@ public class DemoTest {
 
 	public static void conflictMethod(int a, int b) {
 		System.out.println(a - b);
-		System.out.println("Mother's Day.....");
 
+		System.out.println("Mother's Day.....");
 
 		System.out.println("subtrtracting....");
 		System.out.println(4 + 5);
