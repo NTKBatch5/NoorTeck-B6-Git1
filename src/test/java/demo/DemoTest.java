@@ -11,7 +11,7 @@ public class DemoTest {
 		// test
 		System.out.println("Git Demo...");
 
-		System.out.println("this is my script...");
+		System.out.println("Fathers Day....");
 
 		System.out.println("more scriptting....");
 
@@ -24,22 +24,25 @@ public class DemoTest {
 	}
 
 	public static void add(int a, int b) {
+				System.out.println("Fathers Day....");
 		System.out.println(a + b);
 	}
 
 	public static void subtract(int a, int b) {
 		System.out.println(a - b);
+				System.out.println("Fathers Day....");
 	}
 
 	public static void conflictMethod(int a, int b) {
 		System.out.println(a - b);
+				System.out.println("Fathers Day....");
 
 		System.out.println("subtrtracting....");
 		System.out.println(4 + 5);
 	}
 
 	public void addNum2() {
-
+		System.out.println("Fathers Day....");
 		System.out.println("adding");
 		System.out.println("adding");
 		int a = 4;
