@@ -8,6 +8,7 @@ package demo;
 public class DemoTest {
 
 	public static void main(String[] args) {
+		// test
 		System.out.println("Git Demo...");
 
 		System.out.println("this is my script...");
@@ -45,9 +46,9 @@ public class DemoTest {
 		int b = 5;
 
 		System.out.println(a + b);
-	    /**
-	     * Random code...
-	     */
+
+		System.out.println(a + b);
+
 	}
 
 }
